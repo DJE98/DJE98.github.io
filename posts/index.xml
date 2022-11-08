@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sketching with Hardware</title>
-    <link>https://dje98.github.io/</link>
-    <description>Recent content on Sketching with Hardware</description>
+    <title>Posts on Sketching with Hardware</title>
+    <link>https://dje98.github.io/posts/</link>
+    <description>Recent content in Posts on Sketching with Hardware</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Tue, 08 Nov 2022 10:22:36 +0100</lastBuildDate><atom:link href="https://dje98.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Nov 2022 10:22:36 +0100</lastBuildDate><atom:link href="https://dje98.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Start in das Sketching with Hardware 1 Projekt</title>
       <link>https://dje98.github.io/posts/start/</link>
