@@ -6,7 +6,16 @@
     <description>Recent content on Sketching with Hardware</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Tue, 08 Nov 2022 10:22:36 +0100</lastBuildDate><atom:link href="https://dje98.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Nov 2022 10:30:18 +0100</lastBuildDate><atom:link href="https://dje98.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>E-Technik Labor</title>
+      <link>https://dje98.github.io/posts/etechniklabor/</link>
+      <pubDate>Tue, 15 Nov 2022 10:30:18 +0100</pubDate>
+      
+      <guid>https://dje98.github.io/posts/etechniklabor/</guid>
+      <description>Einführung in die Stromlehre Zu Beginn haben wir eine Einführung in die Stromlehre erhalten. Hierbei haben wir den Zusammenhang zwischen Strom, Spannung und Widerstand. Auch haben wir uns damit beschäftigt, wie sich die Größeneinheiten Verhalten, wenn sich Leitungen splitten und die Knotenregel in Kraft tritt. Des Weiteren haben wir mittels einer Dreiecksschaltung gelernt, Widerstände nur anhand eines weiteren Widerstandes und der Spannungsmessung zu bestimmen. Diese Technik ist praktisch, da man sich hierdurch die aufwendige Strommessung ersparen kann.</description>
+    </item>
+    
     <item>
       <title>Start in das Sketching with Hardware 1 Projekt</title>
       <link>https://dje98.github.io/posts/start/</link>

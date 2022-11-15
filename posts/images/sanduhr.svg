@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   sodipodi:docname="sanduhr.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.77593294"
+     inkscape:cx="942.09172"
+     inkscape:cy="485.86673"
+     inkscape:window-width="1920"
+     inkscape:window-height="1053"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="285.99173"
+       y="458.46567"
+       width="193.19155"
+       height="30.985374"
+       id="rect790" />
+    <rect
+       x="274.8019"
+       y="227.50001"
+       width="228.98303"
+       height="98.015398"
+       id="rect668" />
+    <rect
+       x="274.8019"
+       y="227.50001"
+       width="228.98303"
+       height="98.015398"
+       id="rect786" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;stroke-width:0.264583"
+       d="M 21.174516,67.250528 44.17801,111.93786"
+       id="path122" />
+    <path
+       style="fill:#b3b3b3;stroke-width:0.264583"
+       d="M 40.404443,49.51115 100.24708,47.597911"
+       id="path402" />
+    <path
+       style="fill:#b3b3b3;stroke-width:0.264583"
+       d="m 32.441938,45.927168 132.314502,-0.0046 -41.56433,88.846752 -53.014665,-0.087 z"
+       id="path404" />
+    <path
+       style="fill:#b3b3b3;stroke-width:0.264583"
+       d="m 28.910916,249.45458 132.314504,0.005 -41.56433,-88.84675 -53.014667,0.087 z"
+       id="path554" />
+    <rect
+       style="fill:#ac9d93;stroke-width:0.264583"
+       id="rect608"
+       width="127.57396"
+       height="11.503547"
+       x="31.779278"
+       y="134.91301" />
+    <rect
+       style="fill:#ac9d93;stroke-width:0.264583"
+       id="rect612"
+       width="127.57396"
+       height="11.503547"
+       x="31.986858"
+       y="147.64586" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-6.5665772,15.966275)"
+       id="text666"
+       style="white-space:pre;shape-inside:url(#rect668);fill:#f9f9f9"
+       x="104.10673"
+       y="0"><tspan
+         x="284.57389"
+         y="251.76337"
+         id="tspan892"><tspan
+           style="font-size:26.6667px;text-align:center;text-anchor:middle"
+           id="tspan890">Spiegelpyramide </tspan></tspan><tspan
+         x="307.54717"
+         y="285.09674"
+         id="tspan896"><tspan
+   style="font-size:26.6667px;text-align:center;text-anchor:middle"
+   id="tspan894">aus Acrylglas</tspan> </tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-10.321757,146.04407)"
+       id="text784"
+       style="white-space:pre;shape-inside:url(#rect786);fill:#f9f9f9"
+       x="104.10673"
+       y="0"><tspan
+         x="284.57389"
+         y="251.76337"
+         id="tspan900"><tspan
+           style="font-size:26.6667px;text-align:center;text-anchor:middle"
+           id="tspan898">Spiegelpyramide </tspan></tspan><tspan
+         x="307.54717"
+         y="285.09674"
+         id="tspan904"><tspan
+   style="font-size:26.6667px;text-align:center;text-anchor:middle"
+   id="tspan902">aus Acrylglas</tspan> </tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text788"
+       style="fill:#f9f9f9;font-size:26.66666667px;text-align:center;white-space:pre;shape-inside:url(#rect790)" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#f9f9f9;stroke-width:0.264583"
+       x="94.258293"
+       y="143.08885"
+       id="text796"><tspan
+         sodipodi:role="line"
+         id="tspan794"
+         style="stroke-width:0.264583"
+         x="94.258293"
+         y="143.08885">Monitor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#f9f9f9;stroke-width:0.264583"
+       x="93.750702"
+       y="156.18221"
+       id="text800"><tspan
+         sodipodi:role="line"
+         id="tspan798"
+         style="stroke-width:0.264583"
+         x="93.750702"
+         y="156.18221">Monitor</tspan></text>
+  </g>
+</svg>
