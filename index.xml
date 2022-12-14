@@ -6,7 +6,17 @@
     <description>Recent content on Sketching with Hardware</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Tue, 15 Nov 2022 10:30:18 +0100</lastBuildDate><atom:link href="https://dje98.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Dec 2022 15:45:38 +0100</lastBuildDate><atom:link href="https://dje98.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microcontroller</title>
+      <link>https://dje98.github.io/posts/microcontroller/</link>
+      <pubDate>Tue, 13 Dec 2022 15:45:38 +0100</pubDate>
+      
+      <guid>https://dje98.github.io/posts/microcontroller/</guid>
+      <description>Theory We learned about microcontrollers in our last two sessions. In the first theory of the first session, we got a basic introduction to microcontrollers in general and the usable sensors and actuators. In the theory part of the second session, we talked about communication like serial, I2C, and SPI.
+Control a RGB led with a joystick After both theory parts, we got time to try the sensors for ourselves. My personal goal was to use the first session to try new sensors I had never used before and connect them with other parts to build mini projects.</description>
+    </item>
+    
     <item>
       <title>E-Technik Labor</title>
       <link>https://dje98.github.io/posts/etechniklabor/</link>
