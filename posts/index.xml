@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Sketching with Hardware</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Tue, 13 Dec 2022 15:45:38 +0100</lastBuildDate><atom:link href="https://dje98.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Jan 2023 21:05:48 +0100</lastBuildDate><atom:link href="https://dje98.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Subtraktive Fertigung</title>
+      <link>https://dje98.github.io/posts/subtraktivefertigung/</link>
+      <pubDate>Tue, 31 Jan 2023 21:05:48 +0100</pubDate>
+      
+      <guid>https://dje98.github.io/posts/subtraktivefertigung/</guid>
+      <description>Grundlagen In unserer letzten Sitzung haben wir uns mit subtraktiver Fertigung genauer beschäftigt. Generell spricht man von dieser Art der Fertigung, sobald etwas von einem Werkstoff abgetragen wird, um die finale Form zu erreichen. Sobald dieser Vorgang automatisch ausgeführt werden soll, wird eine numerische Computersteuerung engl. Computer Numerical Control (CNC) benötigt. Diesem System kann mittels G-Code mitgeteilt werden, wie es das Werkzeug ansteuern muss. So kann wiederkehrend und präzise die gewünschte Form des Objektes erhalten werden.</description>
+    </item>
+    
     <item>
       <title>Microcontroller</title>
       <link>https://dje98.github.io/posts/microcontroller/</link>
