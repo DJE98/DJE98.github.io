@@ -6,7 +6,17 @@
     <description>Recent content on Sketching with Hardware</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Tue, 31 Jan 2023 21:05:48 +0100</lastBuildDate><atom:link href="https://dje98.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Feb 2023 18:47:12 +0100</lastBuildDate><atom:link href="https://dje98.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Additive Fertigung</title>
+      <link>https://dje98.github.io/posts/additivefertigung/</link>
+      <pubDate>Mon, 27 Feb 2023 18:47:12 +0100</pubDate>
+      
+      <guid>https://dje98.github.io/posts/additivefertigung/</guid>
+      <description>Grundlagen Von additiver Fertigung spricht man, wenn ein Stoff aufgetragen wird, um hierdurch ein neues Objekt zu erzeugen. Dabei haben wir uns als konkretes Verfahren den 3D-Druck angeschaut. Dabei wird schichtenweise neues Material aufgetragen. Im Hobbybereich trifft man hauptsächlich auf 3D-Drucker mit FDM- oder DLP-Verfahren wegen ihrer im Vergleich zu Industriegeräten geringen Anschaffungskosten.
+FDM-Drucker Bei FDM-Verfahren wird der Werkstoff über einen sogenannten Extruder erhitzt. Anschließend wird das flüssige Material über dessen Nozzle auf eine beheizte Platte schichtenweise aufgetragen.</description>
+    </item>
+    
     <item>
       <title>Subtraktive Fertigung</title>
       <link>https://dje98.github.io/posts/subtraktivefertigung/</link>
