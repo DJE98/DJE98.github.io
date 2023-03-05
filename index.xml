@@ -6,7 +6,17 @@
     <description>Recent content on Sketching with Hardware</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Mon, 27 Feb 2023 18:47:12 +0100</lastBuildDate><atom:link href="https://dje98.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Mar 2023 23:46:57 +0100</lastBuildDate><atom:link href="https://dje98.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abschlusspräsentation</title>
+      <link>https://dje98.github.io/posts/praesentation/</link>
+      <pubDate>Sun, 05 Mar 2023 23:46:57 +0100</pubDate>
+      
+      <guid>https://dje98.github.io/posts/praesentation/</guid>
+      <description>Projekt Ich habe nun meine digitale Sanduhr soweit funktionsfähig. In den folgenden Punkten führe ich beschreibe ich den Entstehungsprozess, um einen Eindruck von meiner Vorgehensweisen zu beschreiben.
+Gehäuse Das Gehäuse habe ich mit Freecad designt. Anschließend habe ich es mit dem Ultimaker 2+ aus braunen PLA gedruckt. Hierbei habe ich anfangs die Säulen zu groß dimensioniert und diese daraufhin ein weiteres Mal gedruckt. Generell hatte ich gehofft, dass die Säulen durch die eingeplanten Erhöhungen das obere Gehäuse stabil tragen würden.</description>
+    </item>
+    
     <item>
       <title>Additive Fertigung</title>
       <link>https://dje98.github.io/posts/additivefertigung/</link>
@@ -61,6 +71,16 @@ Control a RGB led with a joystick After both theory parts, we got time to try th
       
       <guid>https://dje98.github.io/posts/start/</guid>
       <description>Mein Name ist Dennis. Dieses Semester besuche ich Sketching with Hardware 1 an der Universität Ulm. Ziel dieser Veranstaltung ist es, Informatiker:innen und Medieninformatiker:innen die Realisierung von Prototypen für Projekte mit Hardware beizubringen. Mich persönlich hat die Kombination von Hardware und Software schon in Schulzeiten fasziniert. Während meiner Schulzeit habe ich im Rahmen einer Arbeitsgruppe autonomfahrende Robot entwickelt. Diese haben beim Wettbewerb Robocup Junior in der Disziplin Open Soccer zwei gegen zwei Fußball gegen andere Teams gespielt.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dje98.github.io/posts/abschlusspraesentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dje98.github.io/posts/abschlusspraesentation/</guid>
+      <description>Projekt Ich habe nun meine digitale Sanduhr soweit funktionsfähig. In den folgenden Punkten führe ich beschreibe ich den Entstehungsprozess, um einen Eindruck von meiner Vorgehensweisen zu beschreiben.
+Gehäuse Das Gehäuse habe ich mit Freecad designt. Anschließend habe ich es mit dem Ultimaker 2+ aus braunen PLA gedruckt. Hierbei habe ich anfangs die Säulen zu groß dimensioniert und diese daraufhin ein weiteres Mal gedruckt. Generell hatte ich gehofft, dass die Säulen durch die eingeplanten Erhöhungen das obere Gehäuse stabil tragen würden.</description>
     </item>
     
   </channel>
